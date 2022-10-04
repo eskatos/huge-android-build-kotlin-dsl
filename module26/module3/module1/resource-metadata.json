@@ -1,0 +1,61 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [],
+    "drawable": [
+      {
+        "qualifiers": "",
+        "extension": "png",
+        "quantity": 5,
+        "fileData": [
+          50814,
+          49412,
+          34415,
+          53199,
+          25787
+        ]
+      },
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 3,
+        "fileData": [
+          26,
+          43,
+          14
+        ]
+      }
+    ],
+    "font": [],
+    "layout": [],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 29,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      }
+    ],
+    "xml": []
+  },
+  "javaResources": {},
+  "assets": {}
+}

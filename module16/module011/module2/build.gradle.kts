@@ -1,0 +1,27 @@
+plugins {
+  id("java-library")
+  id("java")
+  kotlin("jvm")
+}
+dependencies {
+  api(project(":module16:module012:module1"))
+  api(project(":module16:module025:module1"))
+  api(project(":module16:module029:module1"))
+  api(project(":module16:module031:module1"))
+  api(project(":module16:module034:module1"))
+  api(project(":module16:module042:module1"))
+  api(project(":module16:module068:module1"))
+  api(project(":module16:module081:module1"))
+  api(project(":module16:module084:module1"))
+  api(project(":module16:module092:module1"))
+  api(project(":module16:module106:module1"))
+  api("com.jakewharton.threetenabp:threetenabp:1.4.0")
+  compileOnly(project(":module25:module5:module1"))
+  compileOnly("androidx.annotation:annotation:1.2.0")
+  implementation(project(":module07:module561:module1"))
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  testImplementation("com.google.truth:truth:1.1.3")
+  testImplementation("junit:junit:4.13.2")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.threeten:threetenbp:1.6.0")
+}

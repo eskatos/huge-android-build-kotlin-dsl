@@ -1,0 +1,164 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 1,
+        "fileData": [
+          5
+        ]
+      }
+    ],
+    "drawable": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 23,
+        "fileData": [
+          15,
+          5,
+          4,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          5,
+          9,
+          21,
+          12,
+          12,
+          12,
+          12,
+          5,
+          5,
+          5,
+          10,
+          10,
+          5,
+          15
+        ]
+      }
+    ],
+    "font": [],
+    "layout": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 7,
+        "fileData": [
+          115,
+          99,
+          22,
+          77,
+          87,
+          15,
+          19
+        ]
+      }
+    ],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 4,
+        "valuesFileList": [
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 1,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          },
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 5,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          },
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": [
+              4
+            ]
+          },
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "sw600dp",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-land",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      }
+    ],
+    "xml": []
+  },
+  "javaResources": {},
+  "assets": {}
+}

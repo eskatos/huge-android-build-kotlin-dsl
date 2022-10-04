@@ -1,0 +1,101 @@
+plugins {
+  id("com.android.library")
+  kotlin("android")
+}
+android {
+  compileSdkVersion = "android-31"
+  defaultConfig {
+    minSdkVersion(24)
+    targetSdkVersion(30)
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = "1.8"
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation("androidx.annotation:annotation:1.2.0")
+  api(project(":module03:module02:module2"))
+  api(project(":module04:module01:module1"))
+  api(project(":module04:module01:module2"))
+  api(project(":module04:module02:module1"))
+  api(project(":module04:module03:module1"))
+  api(project(":module04:module04:module2"))
+  api(project(":module04:module06:module1"))
+  api(project(":module04:module07:module1"))
+  api(project(":module04:module07:module2"))
+  api(project(":module04:module08:module1"))
+  api(project(":module04:module09:module1"))
+  api(project(":module04:module10:module1"))
+  api(project(":module04:module11:module1"))
+  api(project(":module05:module06:module4"))
+  api(project(":module07:module002:module2"))
+  api(project(":module07:module009:module2"))
+  api(project(":module07:module013:module3"))
+  api(project(":module07:module025:module5"))
+  api(project(":module07:module038:module3"))
+  api(project(":module07:module040:module4"))
+  api(project(":module07:module041:module3"))
+  api(project(":module07:module037:module5"))
+  api(project(":module07:module045:module3"))
+  api(project(":module07:module048:module5"))
+  api(project(":module07:module049:module3"))
+  api(project(":module07:module050:module3"))
+  api(project(":module07:module054:module4"))
+  api(project(":module07:module056:module2"))
+  api(project(":module07:module057:module5"))
+  api(project(":module07:module062:module2"))
+  api(project(":module07:module063:module2"))
+  api(project(":module07:module063:module3"))
+  api(project(":module07:module077:module4"))
+  api(project(":module07:module093:module4"))
+  api(project(":module07:module121:module4"))
+  api(project(":module07:module124:module2"))
+  api(project(":module07:module149:module1"))
+  api(project(":module07:module153:module2"))
+  api(project(":module07:module153:module3"))
+  api(project(":module07:module160:module2"))
+  api(project(":module07:module163:module2"))
+  api(project(":module07:module175:module1"))
+  api(project(":module07:module176:module2"))
+  api(project(":module07:module176:module3"))
+  api(project(":module07:module179:module2"))
+  api(project(":module07:module180:module1"))
+  api(project(":module07:module185:module1"))
+  api(project(":module07:module185:module3"))
+  api(project(":module07:module188:module1"))
+  api(project(":module07:module200:module3"))
+  api(project(":module07:module226:module3"))
+  api(project(":module07:module229:module9:module1"))
+  api(project(":module07:module236:module2"))
+  api(project(":module07:module247:module1"))
+  api(project(":module07:module260:module3"))
+  api(project(":module07:module263:module2"))
+  api(project(":module07:module300:module3"))
+  api(project(":module07:module323:module3"))
+  api(project(":module07:module326:module1"))
+  api(project(":module07:module389:module3"))
+  api(project(":module07:module393:module1"))
+  api(project(":module07:module411:module2"))
+  api(project(":module07:module417:module2"))
+  api(project(":module07:module422:module1"))
+  api(project(":module07:module443:module1"))
+  api(project(":module07:module468:module2"))
+  api(project(":module07:module481:module4"))
+  api(project(":module07:module488:module3"))
+  api(project(":module07:module517:module2"))
+  api(project(":module07:module533:module2"))
+  api(project(":module07:module542:module1"))
+  api(project(":module07:module547:module2"))
+  api(project(":module07:module553:module1"))
+  api(project(":module07:module562:module1"))
+  api("com.google.dagger:dagger:2.39.1")
+  compileOnly("androidx.annotation:annotation:1.2.0")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+}

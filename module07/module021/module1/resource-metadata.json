@@ -1,0 +1,175 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [],
+    "drawable": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 33,
+        "fileData": [
+          30,
+          13,
+          17,
+          17,
+          13,
+          45,
+          13,
+          13,
+          13,
+          31,
+          24,
+          17,
+          54,
+          13,
+          13,
+          13,
+          22,
+          54,
+          13,
+          30,
+          17,
+          13,
+          13,
+          13,
+          13,
+          22,
+          45,
+          15,
+          13,
+          13,
+          31,
+          15,
+          13
+        ]
+      },
+      {
+        "qualifiers": "hdpi",
+        "extension": "png",
+        "quantity": 2,
+        "fileData": [
+          8704,
+          32431
+        ]
+      },
+      {
+        "qualifiers": "mdpi",
+        "extension": "png",
+        "quantity": 2,
+        "fileData": [
+          5218,
+          21298
+        ]
+      },
+      {
+        "qualifiers": "sw1000dp-land",
+        "extension": "xml",
+        "quantity": 28,
+        "fileData": [
+          30,
+          13,
+          17,
+          17,
+          13,
+          45,
+          13,
+          13,
+          21,
+          17,
+          54,
+          13,
+          13,
+          22,
+          54,
+          13,
+          30,
+          13,
+          13,
+          13,
+          13,
+          22,
+          45,
+          15,
+          13,
+          21,
+          15,
+          13
+        ]
+      },
+      {
+        "qualifiers": "sw600dp",
+        "extension": "xml",
+        "quantity": 28,
+        "fileData": [
+          30,
+          13,
+          17,
+          17,
+          13,
+          45,
+          13,
+          13,
+          21,
+          17,
+          54,
+          13,
+          13,
+          22,
+          54,
+          13,
+          30,
+          17,
+          13,
+          13,
+          13,
+          22,
+          45,
+          15,
+          13,
+          21,
+          15,
+          13
+        ]
+      },
+      {
+        "qualifiers": "xhdpi",
+        "extension": "png",
+        "quantity": 2,
+        "fileData": [
+          13161,
+          57625
+        ]
+      },
+      {
+        "qualifiers": "xxhdpi",
+        "extension": "png",
+        "quantity": 2,
+        "fileData": [
+          21690,
+          75074
+        ]
+      },
+      {
+        "qualifiers": "xxxhdpi",
+        "extension": "png",
+        "quantity": 2,
+        "fileData": [
+          33421,
+          158378
+        ]
+      }
+    ],
+    "font": [],
+    "layout": [],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [],
+    "xml": []
+  },
+  "javaResources": {},
+  "assets": {}
+}

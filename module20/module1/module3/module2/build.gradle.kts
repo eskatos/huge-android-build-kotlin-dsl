@@ -1,0 +1,36 @@
+plugins {
+  id("com.android.library")
+  kotlin("android")
+}
+android {
+  compileSdkVersion = "android-31"
+  defaultConfig {
+    minSdkVersion(24)
+    targetSdkVersion(30)
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = "1.8"
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation("androidx.annotation:annotation:1.2.0")
+  api(project(":module01:module08"))
+  api(project(":module05:module34:module7"))
+  api(project(":module07:module127"))
+  api(project(":module07:module139"))
+  api(project(":module16:module011:module2"))
+  api(project(":module16:module029:module1"))
+  api(project(":module16:module031:module1"))
+  api(project(":module16:module068:module1"))
+  api("io.reactivex.rxjava2:rxjava:2.2.20")
+  compileOnly("androidx.annotation:annotation:1.2.0")
+  compileOnly("org.threeten:threetenbp:1.6.0")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+}
