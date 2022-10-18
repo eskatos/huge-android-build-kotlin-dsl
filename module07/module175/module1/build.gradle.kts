@@ -1,7 +1,7 @@
 plugins {
   id("java-library")
   id("java")
-  kotlin("jvm")
+  id("org.jetbrains.kotlin.jvm")
 }
 dependencies {
   api("javax.inject:javax.inject:1")

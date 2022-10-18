@@ -1,7 +1,7 @@
 plugins {
   id("java-library")
   id("java")
-  kotlin("jvm")
+  id("org.jetbrains.kotlin.jvm")
 }
 dependencies {
   compileOnly(project(":module25:module5:module1"))

@@ -1,7 +1,7 @@
 plugins {
   id("java-library")
   id("java")
-  kotlin("jvm")
+  id("org.jetbrains.kotlin.jvm")
 }
 dependencies {
   api(project(":module05:module39:module3"))

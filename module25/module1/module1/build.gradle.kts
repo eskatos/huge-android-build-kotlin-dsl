@@ -1,7 +1,7 @@
 plugins {
   id("java-library")
   id("java")
-  kotlin("jvm")
+  id("org.jetbrains.kotlin.jvm")
 }
 dependencies {
   api("io.netty:netty-codec-http:4.1.59.Final")
