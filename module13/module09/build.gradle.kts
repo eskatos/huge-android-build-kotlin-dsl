@@ -33,7 +33,7 @@ dependencies {
   implementation(project(":module07:module300:module3"))
   implementation(project(":module07:module497:module1"))
   implementation("com.google.dagger:dagger:2.39.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")

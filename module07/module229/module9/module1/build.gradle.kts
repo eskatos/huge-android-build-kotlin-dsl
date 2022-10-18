@@ -27,5 +27,5 @@ dependencies {
   api("javax.inject:javax.inject:1")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation("com.google.android.gms:play-services-base:17.1.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

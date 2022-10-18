@@ -42,6 +42,6 @@ dependencies {
   implementation(project(":module07:module535:module2"))
   implementation(project(":module07:module566:module2"))
   implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.4.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

@@ -32,5 +32,5 @@ dependencies {
   implementation(project(":module07:module549:module3"))
   implementation("com.google.code.gson:gson:2.8.6")
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

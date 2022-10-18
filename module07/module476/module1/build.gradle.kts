@@ -60,6 +60,6 @@ dependencies {
   implementation(project(":module07:module550:module1"))
   implementation(project(":module07:module554:module1"))
   implementation(project(":module07:module566:module2"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

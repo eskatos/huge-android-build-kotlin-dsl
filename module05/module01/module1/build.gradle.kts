@@ -28,7 +28,7 @@ dependencies {
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module07:module025:module6"))
   implementation(project(":module07:module224:module6"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.3.2")
   implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.2")
 }

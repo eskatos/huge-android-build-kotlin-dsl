@@ -31,11 +31,11 @@ dependencies {
   implementation(project(":module07:module175:module1"))
   implementation(project(":module07:module546:module1"))
   implementation("com.google.dagger:dagger:2.39.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module07:module150:module3"))
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.mockito:mockito-core:3.12.4")
   testImplementation("org.robolectric:robolectric:4.7.3")
 }

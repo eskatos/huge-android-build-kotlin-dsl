@@ -28,5 +28,5 @@ dependencies {
   api("io.reactivex.rxjava2:rxjava:2.2.20")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation("com.f2prateek.rx.preferences2:rx-preferences:2.0.1-beta1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

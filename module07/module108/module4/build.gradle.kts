@@ -29,5 +29,5 @@ dependencies {
   implementation(project(":module07:module188:module3"))
   implementation(project(":module16:module061:module1"))
   implementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

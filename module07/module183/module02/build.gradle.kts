@@ -34,7 +34,7 @@ dependencies {
   androidTestImplementation("com.google.dagger:dagger:2.39.1")
   androidTestImplementation("com.google.truth:truth:1.1.3")
   androidTestImplementation("junit:junit:4.13.2")
-  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   api(project(":module07:module175:module1"))
   api(project(":module07:module183:module10"))
   api("com.google.dagger:dagger:2.39.1")
@@ -43,6 +43,6 @@ dependencies {
   implementation(project(":module07:module446:module1"))
   implementation("com.google.code.gson:gson:2.8.6")
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

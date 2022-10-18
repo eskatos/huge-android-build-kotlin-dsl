@@ -35,7 +35,7 @@ dependencies {
   implementation(project(":module23:module01:module31:module1"))
   implementation(project(":module23:module01:module42"))
   implementation(project(":module23:module01:module45"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation("junit:junit:4.13.2")
   testImplementation("org.mockito:mockito-core:3.12.4")

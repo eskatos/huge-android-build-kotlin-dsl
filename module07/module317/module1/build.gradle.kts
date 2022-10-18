@@ -34,5 +34,5 @@ dependencies {
   implementation("androidx.test.uiautomator:uiautomator:2.2.0")
   implementation("com.google.android.material:material:1.2.1")
   implementation("com.google.truth:truth:1.1.3")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

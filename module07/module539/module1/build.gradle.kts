@@ -34,5 +34,5 @@ dependencies {
   implementation("androidx.test.espresso:espresso-contrib:3.3.0")
   implementation("com.jakewharton.timber:timber:4.6.1")
   implementation("javax.inject:javax.inject:1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

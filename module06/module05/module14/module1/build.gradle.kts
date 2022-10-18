@@ -45,7 +45,7 @@ dependencies {
   implementation(project(":module07:module490:module5"))
   implementation(project(":module07:module563:module1:module1"))
   implementation(project(":module16:module031:module1"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-rx2:1.5.0")
   testImplementation(project(":module06:module07:module5"))
 }

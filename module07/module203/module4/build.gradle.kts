@@ -29,5 +29,5 @@ dependencies {
   implementation(project(":module07:module316:module1"))
   implementation(project(":module07:module547:module3"))
   implementation("androidx.core:core-ktx:1.7.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

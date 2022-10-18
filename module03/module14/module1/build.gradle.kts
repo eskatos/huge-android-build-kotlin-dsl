@@ -23,7 +23,7 @@ android {
 }
 dependencies {
   androidTestImplementation("androidx.annotation:annotation:1.2.0")
-  api("androidx.databinding:viewbinding:7.1.3")
+  api("androidx.databinding:viewbinding:7.3.1")
   api("com.google.dagger:dagger:2.39.1")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module03:module14:module2"))
@@ -41,6 +41,6 @@ dependencies {
   implementation("com.jakewharton.timber:timber:4.6.1")
   implementation("io.reactivex.rxjava2:rxandroid:2.1.1")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

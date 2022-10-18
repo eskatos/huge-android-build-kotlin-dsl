@@ -33,5 +33,5 @@ dependencies {
   implementation(project(":module16:module106:module1"))
   implementation("androidx.appcompat:appcompat:1.3.1")
   implementation("androidx.core:core-ktx:1.7.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

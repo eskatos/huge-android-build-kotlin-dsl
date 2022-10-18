@@ -40,6 +40,6 @@ dependencies {
   implementation(project(":module07:module183:module09"))
   implementation(project(":module08:module38:module04:module6"))
   implementation(project(":module08:module38:module09:module3"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

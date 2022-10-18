@@ -24,6 +24,6 @@ dependencies {
   api(project(":module07:module563:module2:module1"))
   api(project(":module08:module11:module03:module1"))
   compileOnly("androidx.annotation:annotation:1.2.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
 }

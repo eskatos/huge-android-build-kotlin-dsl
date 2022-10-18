@@ -30,5 +30,5 @@ dependencies {
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module02:module28:module2"))
   implementation("androidx.test.espresso:espresso-core:3.3.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

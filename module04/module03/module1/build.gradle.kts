@@ -41,5 +41,5 @@ dependencies {
   implementation(project(":module07:module328:module1"))
   implementation(project(":module07:module563:module2:module1"))
   implementation("androidx.constraintlayout:constraintlayout:1.1.3")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

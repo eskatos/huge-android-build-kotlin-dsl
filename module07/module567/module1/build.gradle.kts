@@ -30,7 +30,7 @@ dependencies {
   implementation(project(":module07:module425:module1"))
   implementation(project(":module07:module518:module01"))
   implementation("androidx.fragment:fragment-ktx:1.3.6")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

@@ -32,9 +32,9 @@ dependencies {
   implementation("com.f2prateek.rx.preferences2:rx-preferences:2.0.1-beta1")
   implementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module07:module547:module4"))
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
 }

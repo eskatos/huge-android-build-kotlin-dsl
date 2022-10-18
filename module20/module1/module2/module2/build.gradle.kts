@@ -22,7 +22,7 @@ android {
 dependencies {
   androidTestImplementation("androidx.annotation:annotation:1.2.0")
   compileOnly("androidx.annotation:annotation:1.2.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
   implementation("org.mockito:mockito-core:3.12.4")
 }

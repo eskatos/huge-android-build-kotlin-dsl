@@ -32,5 +32,5 @@ dependencies {
   implementation(project(":module07:module549:module3"))
   implementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

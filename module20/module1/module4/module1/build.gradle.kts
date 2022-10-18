@@ -32,6 +32,6 @@ dependencies {
   implementation(project(":module07:module328:module1"))
   implementation(project(":module07:module563:module1:module1"))
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0")
 }

@@ -32,6 +32,6 @@ dependencies {
   implementation("androidx.core:core-ktx:1.7.0")
   implementation("androidx.test:monitor:1.5.0")
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
-  implementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
+  implementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
 }

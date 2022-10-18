@@ -44,6 +44,6 @@ dependencies {
   implementation(project(":module08:module13:module1"))
   implementation("androidx.test.espresso:espresso-contrib:3.3.0")
   implementation("androidx.test.uiautomator:uiautomator:2.2.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

@@ -31,7 +31,7 @@ dependencies {
   implementation(project(":module07:module112"))
   implementation(project(":module07:module188:module3"))
   implementation(project(":module07:module518:module10"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module07:module150:module3"))
   testImplementation(project(":module07:module324:module1"))
   testImplementation(project(":module07:module411:module4"))
@@ -44,7 +44,7 @@ dependencies {
   testImplementation("com.google.testparameterinjector:test-parameter-injector:1.8")
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
   testImplementation("org.mockito:mockito-core:3.12.4")
 }

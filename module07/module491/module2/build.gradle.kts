@@ -39,7 +39,7 @@ dependencies {
   implementation(project(":module07:module311"))
   implementation(project(":module07:module329:module1"))
   implementation(project(":module07:module566:module2"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module06:module16:module02"))
   testImplementation(project(":module07:module174:module1"))
   testImplementation(project(":module07:module224:module7"))
@@ -51,7 +51,7 @@ dependencies {
   testImplementation(project(":module07:module549:module4"))
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
   testImplementation("org.mockito:mockito-core:3.12.4")
 }

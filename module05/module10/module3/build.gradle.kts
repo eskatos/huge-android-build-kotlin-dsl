@@ -30,5 +30,5 @@ dependencies {
   implementation(project(":module07:module547:module3"))
   implementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

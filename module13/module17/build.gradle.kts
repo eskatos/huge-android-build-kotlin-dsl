@@ -44,7 +44,7 @@ dependencies {
   implementation(project(":module08:module52:module7"))
   implementation(project(":module13:module02:module3"))
   implementation(project(":module13:module12"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation(project(":module07:module150:module3"))
   testImplementation(project(":module07:module447:module2"))
@@ -53,7 +53,7 @@ dependencies {
   testImplementation(project(":module07:module549:module4"))
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
   testImplementation("org.robolectric:robolectric:4.7.3")
 }

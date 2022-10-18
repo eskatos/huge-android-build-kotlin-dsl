@@ -30,5 +30,5 @@ dependencies {
   compileOnly("javax.inject:javax.inject:1")
   implementation(project(":module07:module342:module1"))
   implementation(project(":module07:module546:module1"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

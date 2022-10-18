@@ -30,7 +30,7 @@ dependencies {
   androidTestImplementation("androidx.test:runner:1.4.0")
   androidTestImplementation("com.google.truth:truth:1.1.3")
   androidTestImplementation("junit:junit:4.13.2")
-  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   api("com.google.dagger:dagger:2.39.1")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module03:module10:module3"))
@@ -67,6 +67,6 @@ dependencies {
   implementation(project(":module23:module01:module50"))
   implementation("androidx.core:core-ktx:1.7.0")
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

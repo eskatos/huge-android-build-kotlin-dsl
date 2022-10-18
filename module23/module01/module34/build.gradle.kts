@@ -33,7 +33,7 @@ dependencies {
   implementation(project(":module07:module253:module1"))
   implementation(project(":module10:module1"))
   implementation(project(":module23:module01:module08:module6"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-rx2:1.5.0")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation(project(":module07:module150:module3"))

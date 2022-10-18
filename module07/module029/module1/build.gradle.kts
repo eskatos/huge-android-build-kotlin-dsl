@@ -28,5 +28,5 @@ dependencies {
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module07:module547:module3"))
   implementation("com.jakewharton:process-phoenix:2.0.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

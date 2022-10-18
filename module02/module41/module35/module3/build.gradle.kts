@@ -31,9 +31,9 @@ dependencies {
   implementation(project(":module07:module224:module6"))
   implementation("com.google.dagger:dagger:2.39.1")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.threeten:threetenbp:1.6.0")
 }

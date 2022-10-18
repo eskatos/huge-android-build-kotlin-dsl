@@ -28,5 +28,5 @@ dependencies {
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module02:module41:module16:module3"))
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

@@ -31,7 +31,7 @@ dependencies {
   implementation(project(":module07:module264:module6"))
   implementation(project(":module07:module547:module3"))
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-rx2:1.5.0")
   testImplementation(project(":module07:module468:module4"))
 }

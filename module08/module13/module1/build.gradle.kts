@@ -27,5 +27,5 @@ dependencies {
   implementation(project(":module07:module423:module1"))
   implementation("androidx.activity:activity:1.3.1")
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

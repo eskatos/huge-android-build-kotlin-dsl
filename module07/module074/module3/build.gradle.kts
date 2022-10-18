@@ -87,6 +87,6 @@ dependencies {
   implementation(project(":module16:module011:module2"))
   implementation(project(":module17:module1"))
   implementation("com.google.android.gms:play-services-safetynet:17.0.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

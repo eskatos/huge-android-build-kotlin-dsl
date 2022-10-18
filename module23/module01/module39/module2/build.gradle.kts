@@ -33,5 +33,5 @@ dependencies {
   implementation(project(":module07:module547:module3"))
   implementation(project(":module16:module054:module1"))
   implementation("com.bugsnag:bugsnag-android:5.0.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

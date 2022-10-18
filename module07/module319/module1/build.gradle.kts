@@ -30,8 +30,8 @@ dependencies {
   compileOnly("org.threeten:threetenbp:1.6.0")
   implementation(project(":module07:module465:module1"))
   implementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
 }

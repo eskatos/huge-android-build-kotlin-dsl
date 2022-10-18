@@ -29,5 +29,5 @@ dependencies {
   implementation(project(":module07:module025:module6"))
   implementation("com.jakewharton.timber:timber:4.6.1")
   implementation("javax.inject:javax.inject:1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

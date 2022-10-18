@@ -35,7 +35,7 @@ dependencies {
   androidTestImplementation("junit:junit:4.13.2")
   api(project(":module07:module175:module1"))
   api(project(":module08:module11:module01:module7:module5"))
-  api("androidx.databinding:viewbinding:7.1.3")
+  api("androidx.databinding:viewbinding:7.3.1")
   api("com.google.dagger:dagger:2.39.1")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module07:module183:module09"))
@@ -48,6 +48,6 @@ dependencies {
   implementation(project(":module08:module12:module11:module1"))
   implementation(project(":module08:module11:module01:module7:module2"))
   implementation(project(":module08:module11:module01:module7:module3"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

@@ -29,7 +29,7 @@ dependencies {
   api(project(":module16:module103:module1"))
   api(project(":module23:module07:module02:module4"))
   compileOnly("androidx.annotation:annotation:1.2.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.3.2")
   implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.2")
 }

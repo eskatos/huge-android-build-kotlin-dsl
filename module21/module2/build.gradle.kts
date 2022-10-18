@@ -18,7 +18,7 @@ android {
 }
 dependencies {
   androidTestImplementation("androidx.annotation:annotation:1.2.0")
-  api("androidx.databinding:viewbinding:7.1.3")
+  api("androidx.databinding:viewbinding:7.3.1")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation("androidx.appcompat:appcompat:1.3.1")
   implementation("com.google.android.material:material:1.2.1")

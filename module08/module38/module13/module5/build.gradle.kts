@@ -28,5 +28,5 @@ dependencies {
   implementation(project(":module08:module38:module14:module1"))
   implementation(project(":module08:module38:module13:module4"))
   implementation("androidx.test.espresso:espresso-core:3.3.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

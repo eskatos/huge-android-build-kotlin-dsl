@@ -25,5 +25,5 @@ dependencies {
   api("org.hamcrest:hamcrest-core:1.3")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module07:module542:module3"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

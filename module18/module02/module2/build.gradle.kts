@@ -27,5 +27,5 @@ dependencies {
   implementation(project(":module18:module01:module3"))
   implementation(project(":module18:module11:module1:module2"))
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

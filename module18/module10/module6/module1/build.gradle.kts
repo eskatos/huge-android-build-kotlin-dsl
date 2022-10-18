@@ -47,7 +47,7 @@ dependencies {
   implementation("androidx.constraintlayout:constraintlayout:1.1.3")
   implementation("androidx.recyclerview:recyclerview:1.0.0")
   implementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module07:module147:module9"))
   testImplementation(project(":module07:module324:module1"))
   testImplementation(project(":module07:module411:module4"))
@@ -57,7 +57,7 @@ dependencies {
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
   testImplementation("org.mockito:mockito-core:3.12.4")
 }

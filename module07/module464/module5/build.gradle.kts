@@ -31,6 +31,6 @@ dependencies {
   implementation(project(":module07:module175:module1"))
   implementation(project(":module07:module247:module2"))
   implementation(project(":module07:module257:module3"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0")
 }

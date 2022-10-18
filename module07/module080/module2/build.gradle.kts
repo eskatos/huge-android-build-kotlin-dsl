@@ -24,5 +24,5 @@ dependencies {
   api(project(":module07:module463:module2"))
   api("com.jakewharton.threetenabp:threetenabp:1.4.0")
   compileOnly("androidx.annotation:annotation:1.2.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

@@ -28,5 +28,5 @@ dependencies {
   api("androidx.fragment:fragment-ktx:1.3.6")
   api("com.google.dagger:dagger:2.39.1")
   compileOnly("androidx.annotation:annotation:1.2.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

@@ -32,5 +32,5 @@ dependencies {
   implementation(project(":module07:module447:module1"))
   implementation(project(":module07:module518:module10"))
   implementation("com.jakewharton.threetenabp:threetenabp:1.4.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

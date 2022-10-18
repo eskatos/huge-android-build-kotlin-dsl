@@ -29,7 +29,7 @@ dependencies {
   implementation(project(":module07:module549:module3"))
   implementation(project(":module23:module01:module16"))
   implementation("com.jakewharton.timber:timber:4.6.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation("junit:junit:4.13.2")
   testImplementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
 }

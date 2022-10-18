@@ -100,7 +100,7 @@ dependencies {
   implementation(project(":module14:module4:module1"))
   implementation(project(":module14:module6:module2"))
   implementation(project(":module14:module8:module2"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation("androidx.test.uiautomator:uiautomator:2.2.0")
 }

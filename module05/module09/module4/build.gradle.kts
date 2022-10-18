@@ -25,5 +25,5 @@ dependencies {
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module07:module468:module3"))
   implementation("com.f2prateek.rx.preferences2:rx-preferences:2.0.1-beta1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

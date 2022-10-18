@@ -58,7 +58,7 @@ dependencies {
   implementation(project(":module14:module5:module2"))
   implementation("androidx.activity:activity-ktx:1.3.1")
   implementation("androidx.compose.foundation:foundation:1.2.0-alpha07")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

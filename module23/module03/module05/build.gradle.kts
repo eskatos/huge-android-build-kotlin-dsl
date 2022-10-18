@@ -28,7 +28,7 @@ dependencies {
   implementation(project(":module07:module546:module1"))
   implementation(project(":module10:module1"))
   implementation(project(":module23:module01:module34"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation(project(":module07:module150:module3"))
   testImplementation("com.google.truth:truth:1.1.3")

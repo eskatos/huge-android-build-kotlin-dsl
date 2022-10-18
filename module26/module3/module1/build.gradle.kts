@@ -48,6 +48,6 @@ dependencies {
   implementation("androidx.compose.runtime:runtime-rxjava2:1.2.0-alpha07")
   implementation("com.google.accompanist:accompanist-pager-indicators:0.22.0-rc")
   implementation("com.google.accompanist:accompanist-pager:0.22.0-rc")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

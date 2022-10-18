@@ -36,6 +36,6 @@ dependencies {
   implementation(project(":module07:module183:module09"))
   implementation(project(":module07:module451:module1"))
   implementation("io.reactivex.rxjava2:rxandroid:2.1.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

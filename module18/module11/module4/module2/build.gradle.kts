@@ -37,5 +37,5 @@ dependencies {
   implementation(project(":module18:module10:module3:module1"))
   implementation(project(":module18:module12:module1"))
   implementation("javax.inject:javax.inject:1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

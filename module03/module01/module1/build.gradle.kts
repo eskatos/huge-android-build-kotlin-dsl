@@ -86,7 +86,7 @@ dependencies {
   androidTestImplementation("androidx.test:runner:1.4.0")
   androidTestImplementation("com.google.truth:truth:1.1.3")
   androidTestImplementation("junit:junit:4.13.2")
-  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module03:module01:module6"))
   implementation(project(":module07:module161:module1"))
@@ -94,5 +94,5 @@ dependencies {
   implementation(project(":module15:module1"))
   implementation("com.bugsnag:bugsnag-android:5.0.0")
   implementation("com.jakewharton.threetenabp:threetenabp:1.4.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

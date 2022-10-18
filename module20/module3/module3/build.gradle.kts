@@ -90,7 +90,7 @@ dependencies {
   implementation(project(":module20:module3:module5"))
   implementation("ca.barrenechea.header-decor:header-decor:0.3-cash01")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module07:module068"))
   testImplementation(project(":module07:module108:module4"))
   testImplementation(project(":module07:module128"))

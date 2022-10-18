@@ -59,7 +59,7 @@ dependencies {
   implementation(project(":module07:module512:module6"))
   implementation(project(":module07:module514:module3"))
   implementation(project(":module07:module515:module2"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation(project(":module07:module512:module2"))
 }

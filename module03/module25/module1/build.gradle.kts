@@ -51,6 +51,6 @@ dependencies {
   implementation("com.google.zxing:core:3.4.1")
   implementation("com.jakewharton.timber:timber:4.6.1")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
 }

@@ -28,5 +28,5 @@ dependencies {
   implementation(project(":module07:module137:module2"))
   implementation(project(":module07:module565:module2"))
   implementation("androidx.compose.foundation:foundation:1.2.0-alpha07")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

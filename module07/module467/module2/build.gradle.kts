@@ -44,5 +44,5 @@ dependencies {
   implementation(project(":module07:module269"))
   implementation(project(":module07:module302:module6"))
   implementation(project(":module16:module061:module1"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

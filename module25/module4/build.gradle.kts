@@ -33,7 +33,7 @@ dependencies {
   androidTestImplementation("com.google.code.gson:gson:2.8.6")
   androidTestImplementation("com.google.truth:truth:1.1.3")
   androidTestImplementation("junit:junit:4.13.2")
-  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  androidTestImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   compileOnly("androidx.annotation:annotation:1.2.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

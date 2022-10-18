@@ -50,7 +50,7 @@ dependencies {
   implementation(project(":module07:module557"))
   implementation("com.f2prateek.rx.preferences2:rx-preferences:2.0.1-beta1")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module07:module128"))
   testImplementation(project(":module07:module132:module7"))
   testImplementation(project(":module07:module411:module4"))

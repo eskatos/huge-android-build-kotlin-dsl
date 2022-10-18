@@ -31,5 +31,5 @@ dependencies {
   implementation(project(":module07:module538:module1"))
   implementation(project(":module07:module540:module1"))
   implementation("androidx.test:rules:1.4.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

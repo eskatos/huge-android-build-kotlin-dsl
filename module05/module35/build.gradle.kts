@@ -39,10 +39,10 @@ dependencies {
   implementation("com.jakewharton.timber:timber:4.6.1")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
   implementation("javax.inject:javax.inject:1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.mockito:mockito-core:3.12.4")
 }

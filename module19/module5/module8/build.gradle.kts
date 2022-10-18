@@ -31,8 +31,8 @@ dependencies {
   implementation(project(":module19:module1:module23:module1"))
   implementation(project(":module19:module5:module9"))
   implementation("com.jakewharton.rxrelay2:rxrelay:2.1.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
 }

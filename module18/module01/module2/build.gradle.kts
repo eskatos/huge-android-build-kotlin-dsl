@@ -73,7 +73,7 @@ dependencies {
   implementation("androidx.appcompat:appcompat:1.3.1")
   implementation("androidx.lifecycle:lifecycle-common-java8:2.4.0")
   implementation("io.reactivex.rxjava2:rxjava:2.2.20")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   kapt("com.google.dagger:dagger-compiler:2.39.1")
   testImplementation(project(":module07:module324:module1"))
   testImplementation(project(":module07:module518:module11"))
@@ -82,7 +82,7 @@ dependencies {
   testImplementation(project(":module07:module549:module4"))
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
   testImplementation("org.mockito:mockito-core:3.12.4")
 }

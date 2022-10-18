@@ -26,7 +26,7 @@ dependencies {
   implementation(project(":module05:module02:module4"))
   implementation(project(":module05:module06:module5"))
   implementation(project(":module05:module39:module3"))
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0")
   implementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
 }

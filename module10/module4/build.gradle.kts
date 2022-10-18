@@ -59,5 +59,5 @@ dependencies {
   implementation(project(":module08:module53"))
   implementation("androidx.test.espresso:espresso-intents:3.3.0")
   implementation("com.google.truth:truth:1.1.3")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

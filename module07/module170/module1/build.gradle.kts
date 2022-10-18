@@ -24,5 +24,5 @@ dependencies {
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation("com.jakewharton.threetenabp:threetenabp:1.4.0")
   implementation("org.bouncycastle:bcprov-jdk15on:1.70")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

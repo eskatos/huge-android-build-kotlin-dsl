@@ -28,11 +28,11 @@ dependencies {
   api("io.reactivex.rxjava2:rxjava:2.2.20")
   compileOnly("androidx.annotation:annotation:1.2.0")
   compileOnly("javax.inject:javax.inject:1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
   testImplementation(project(":module02:module41:module20:module2"))
   testImplementation("com.google.truth:truth:1.1.3")
   testImplementation("junit:junit:4.13.2")
-  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.6.10")
+  testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.7.20")
   testImplementation("org.robolectric:robolectric:4.7.3")
   testImplementation("org.threeten:threetenbp:1.6.0")
 }

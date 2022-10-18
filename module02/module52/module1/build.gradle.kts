@@ -23,7 +23,7 @@ android {
 }
 dependencies {
   androidTestImplementation("androidx.annotation:annotation:1.2.0")
-  api("androidx.databinding:viewbinding:7.1.3")
+  api("androidx.databinding:viewbinding:7.3.1")
   compileOnly("androidx.annotation:annotation:1.2.0")
   implementation(project(":module07:module341:module1"))
   implementation(project(":module07:module342:module1"))
@@ -35,5 +35,5 @@ dependencies {
   implementation(project(":module07:module563:module2:module1"))
   implementation("androidx.recyclerview:recyclerview:1.0.0")
   implementation("com.jakewharton.threetenabp:threetenabp:1.4.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

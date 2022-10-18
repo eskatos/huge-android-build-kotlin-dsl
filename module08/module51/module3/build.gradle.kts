@@ -29,5 +29,5 @@ dependencies {
   implementation(project(":module08:module51:module2"))
   implementation("androidx.recyclerview:recyclerview:1.0.0")
   implementation("androidx.test.espresso:espresso-core:3.3.0")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }

@@ -30,5 +30,5 @@ dependencies {
   implementation(project(":module07:module329:module1"))
   implementation(project(":module19:module1:module04:module1"))
   implementation("com.google.android.material:material:1.2.1")
-  implementation("org.jetbrains.kotlin:kotlin-bom:1.6.10")
+  implementation("org.jetbrains.kotlin:kotlin-bom:1.7.20")
 }
